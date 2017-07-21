@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 auto: true
 
 markdown: rdiscount
@@ -12,3 +13,6 @@ description: Everything about SuperZero.
 url: http://super1117.github.io
 feed: /atom.xml
 author_info: <a href="http://super1117.github.io/">SuperZero</a>
+=======
+theme: jekyll-theme-midnight
+>>>>>>> db06d99fe93952276242ed6cec99dd3d5d70b417

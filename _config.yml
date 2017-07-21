@@ -1,0 +1,14 @@
+auto: true
+
+markdown: rdiscount
+
+highlighter: 'pygments'
+#paginate: 8
+permalink: /:title
+
+name: “SuperZero's Blog”
+title: SuperZero's blog
+description: Everything about SuperZero.
+url: http://super1117.github.io
+feed: /atom.xml
+author_info: <a href="http://super1117.github.io/">SuperZero</a>
